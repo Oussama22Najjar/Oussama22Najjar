@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  padding: 100px;
+}
+div {
+  padding: 100px;
+}
+.shoopingCard{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.qtes{
+  display: flex;
+
+  justify-content: space-around;
+}
+
+.details{
+  display: flex;
+  flex-direction: column;
+}
+.product{
+  display: flex;
+}
+.prices{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+ 
+}
+.totals{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.remove{
+  display: flex;
+  flex-direction: column;
+}
+.fa-heart{
+
+  color : gray;
+  /*#region Category*/
+div[data-id='drp-stores'] .flag-icon {
+  font-size: 26px;
+}
+}
